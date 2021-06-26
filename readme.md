@@ -43,21 +43,6 @@ Com o projeto você pode aprender a criar um loja de sapatos utilizando as tecno
 
 # <a href="https://github.com/alextfonseca/criando-um-hook-de-carrinho-de-compras">Acesse o projeto</a>
 
-## 🧑‍💻 Criador
-
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/alextfonseca">
-        <img src="https://github.com/alextfonseca.png" width="100px;" alt="Foto de Alex Teixeira da Fonseca no GitHub"/><br>
-        <sub>
-          <b>Alex Teixeira da Fonseca</b>
-        </sub>
-      </a>
-    </td>
-  </tr>
-</table>
-
 ## 😄 Me siga nas redes sociais<br>
 
 <p align="left">
